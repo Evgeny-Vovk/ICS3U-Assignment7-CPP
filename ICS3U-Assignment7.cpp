@@ -8,13 +8,6 @@
 #include <string>
 #include <iostream>
 
-int organize(std::list<std::string> firstList, std::list<std::string> secondList) {
-    std::list<std::string> finalList;
-    int counter;
-    int size = firstList.size() + secondList.size();
-    return 5;
-}
-
 int main() {
     // this function generates the random numbers
 
